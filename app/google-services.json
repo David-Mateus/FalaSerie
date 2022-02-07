@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "563696996018",
+    "project_id": "falaserie-33641",
+    "storage_bucket": "falaserie-33641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563696996018:android:1ed06a780aa0e2281783ab",
+        "android_client_info": {
+          "package_name": "com.example.falaserie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563696996018-91eou2fk5t8gnetqa82f3uthmldrpial.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbYkCG0b0LDAFqqzPLKRdzDhnFj7p6WHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563696996018-91eou2fk5t8gnetqa82f3uthmldrpial.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

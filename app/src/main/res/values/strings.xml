@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">falaSerie</string>
+    <string name="imagemDefundo">Imagem de fundo</string>
+    <string name="login">login</string>
+    <string name="logo">logo</string>
+    <string name="passowrd">Passowrd</string>
+    <string name="entrar">Entrar</string>
+    <string name="logodetela">logodeTela</string>
+    <string name="imagem_de_back">Imagem de back</string>
+    <string name="logo_da_tela">logo da tela</string>
+    <string name="texto4">Cadastre mais séries para ter o seu repertório completo na palma da sua mão!</string>
+    <string name="go">Go</string>
+    <string name="image1">image1</string>
+    <string name="cadastro_de_s_rie">Cadastro de série</string>
+    <string name="text2">Adicione todas as informações necessárias para cadastrar essa série.</string>
+    <string name="excluir">Excluir</string>
+    <string name="editar">Editar</string>
+    <string name="foto4">foto4</string>
+    <string name="the_society">THE SOCIETY</string>
+    <string name="descri_o">Descrição</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="listar_de_series">Listar de series</string>
+    <string name="suas_s_ries_cadastradas">Suas séries cadastradas:</string>
+    <string name="fundodeimage">fundodeImage</string>
+    <string name="adicinar_imagem">Adicinar imagem</string>
+    <string name="titulo_da_serie">Titulo da serie</string>
+    <string name="descri_o_da_serie">Descrição da serie</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="cadastrar">Cadastrar</string>
+</resources>
